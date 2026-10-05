@@ -1,14 +1,20 @@
-# Berat Mert Kayacan
+<!-- prettier-ignore-start -->
+<h1 align="center">Berat Mert Kayacan</h1>
 
-Working on Artificial Intelligence Technologies and Management Processes
+<p align="center">
+  Working on Artificial Intelligence Technologies and Management Processes
+</p>
 
-**Artificial Intelligence Engineering** (Major) and **Management Engineering** (Double Major) Student at **Bahçeşehir University**, Istanbul
+<p align="center">
+  <b>Artificial Intelligence Engineering</b> (Major) and <b>Management Engineering</b> (Double Major) Student at <b>Bahçeşehir University</b>, Istanbul
+</p>
 
-
-|                                                                                                               |                                                                                                             |                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | ![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white) |
-
+<p align="center">
+  <a href="https://beratmertkayacan.com/"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/berat-mert-kayacan-7723a2334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:beratmert.kayacan@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<!-- prettier-ignore-end -->
 
 ---
 
