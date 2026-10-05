@@ -12,8 +12,6 @@ Working on Artificial Intelligence Technologies and Management Processes
 
 ---
 
-
-
 ### About
 
 I am interested in data science, starting from statistics (SQL, statistical analysis, data visualization). On top of that I study the principles of **machine learning** (NumPy, Pandas, Scikit-learn), and I work on **RAG, agentic AI and LLM** based systems and other AI technologies. 
@@ -24,19 +22,9 @@ I am also a remote **Responsible AI intern at TrustAI Türkiye**, working on **L
 
 ---
 
-
-
 ### Focus Areas
 
 The topics I work on are machine learning, RAG and agentic AI, LLM based applications and explainable AI. Alongside these, I am also interested in MLOps and cloud systems, model monitoring, and using AI to improve business processes and operational efficiency.
-
----
-
-
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=python,cpp,r,js,fastapi,postgres,docker,azure,git&perline=9)
 
 ---
 
